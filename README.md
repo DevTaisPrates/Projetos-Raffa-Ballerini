@@ -41,4 +41,3 @@ cd nome-do-repositorio
 Quer trocar uma ideia sobre front-end ou compartilhar conhecimento? Me encontre no [LinkedIn](https://www.linkedin.com/in/ta%C3%ADs-prates/)
 !
 
-### 📌 Este repositório será atualizado conforme avanço no curso! 🚀
