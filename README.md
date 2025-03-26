@@ -1,5 +1,5 @@
 
-# Repositório - Projetos / Rafaella Ballerini
+# Projetos with Rafaella Ballerini
 
 Bem-vindo(a) ao meu repositório de projetos!  
 Aqui, você encontrará os projetos que realizei com base nos tutoriais do canal da Rafaella Ballerini no YouTube. Esses projetos foram desenvolvidos utilizando as linguagens **HTML**, **CSS** e **JavaScript**.
