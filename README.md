@@ -32,11 +32,10 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 ````
 cd nome-do-repositorio
 ````
-3. Execute os scripts desejados:
-```
-python nome_do_arquivo.py
+3. Abra o projeto no Visual Studio Code ou qualquer editor de sua preferência.
 
-````
+4. Abra os arquivos index.html no seu navegador para visualizar os projetos.
+
 ## 📢 Contato
 
 Quer trocar uma ideia sobre front-end ou compartilhar conhecimento? Me encontre no [LinkedIn](https://www.linkedin.com/in/ta%C3%ADs-prates/)
